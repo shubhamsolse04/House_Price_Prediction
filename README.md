@@ -6,6 +6,10 @@ An end-to-end Machine Learning project that predicts house prices based on vario
 
 https://housepricepredictionmachinelearningmodel.streamlit.app/
 
+## WEB-APP Preview
+
+<img width="652" height="857" alt="MLAppSS" src="https://github.com/user-attachments/assets/81939f0f-d762-4bcd-8170-040cfc814158" />
+
 ## Features
 
 - Predict house prices using Machine Learning
@@ -62,10 +66,6 @@ House_Price_Prediction
 ├── requirements.txt
 ├── README.md
 ```
-## WEB-APP Preview
-
-<img width="652" height="857" alt="MLAppSS" src="https://github.com/user-attachments/assets/81939f0f-d762-4bcd-8170-040cfc814158" />
-
 
 ## Author
 
