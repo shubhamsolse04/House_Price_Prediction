@@ -62,6 +62,10 @@ House_Price_Prediction
 ├── requirements.txt
 ├── README.md
 ```
+## WEB-APP Preview
+
+<img width="652" height="857" alt="MLAppSS" src="https://github.com/user-attachments/assets/81939f0f-d762-4bcd-8170-040cfc814158" />
+
 
 ## Author
 
